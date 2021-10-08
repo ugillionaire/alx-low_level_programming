@@ -1,6 +1,4 @@
 #include "lists.h"
-#include <stdio.h>
-
 /**
  * print_list - print all elements of `list_t` list
  * @h: head of linked list
